@@ -1,0 +1,36 @@
+#home{
+    padding-top: 10px;
+    color:rgb(104, 9, 53);
+    text-shadow: 2px 2px rgb(188, 238, 235);
+}
+
+    img{
+        height: 280px;
+    }
+    .card-body{
+        background-color: whitesmoke;
+        text-align: center;
+        color:fuchsia;
+    }
+    
+    .card{
+        padding-top: 0px;
+        display: inline-flex;
+        background-color:darkslategrey;
+        transition: transform .2s;
+        margin: 33px;
+        margin-left: 43px;
+    }
+    li:hover {
+        transform: scale(1.1) 
+      } 
+
+    /* #hpara{
+        margin-top:20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    } */
+    
+    /* .nav-item2{
+        padding-left: "500px";
+    } */
